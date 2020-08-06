@@ -1,7 +1,7 @@
-### Hi there, I'm Salah - aka [SalahStre][website] 👋
+### Hi there, I'm Salah 👋
 
-## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [Android Studio][website]!
+## I'm a Software Developer!
+- 🔭 I’m currently working on a [Android Studio]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
